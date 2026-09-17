@@ -15,3 +15,10 @@ I will learn how to create and organize:
 - Work guides
 - Assessments
 - AI prompts
+## What I am learning
+
+- GitHub basics
+- Repositories
+- Files
+- Commits
+- Academic planning with AI
